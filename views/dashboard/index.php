@@ -22,6 +22,7 @@ function statusBadge(string $s): string {
 <!-- checkinig -->
 
 <!-- another -->
+ <!-- another one -->
 
 <!-- Stat cards -->
 <div class="row g-4 mb-4">
