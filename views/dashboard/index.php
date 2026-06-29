@@ -19,6 +19,9 @@ function statusBadge(string $s): string {
     return "<span class=\"badge bg-$c\">$s</span>";
 }
 ?>
+<!-- checkinig -->
+
+<!-- another -->
 
 <!-- Stat cards -->
 <div class="row g-4 mb-4">
