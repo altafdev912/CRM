@@ -4,7 +4,7 @@ $breadcrumb = ['Dashboard' => null];
 require ROOT_PATH . '/views/layouts/header.php';
 
 
-
+// some data for the dashboard
 
 // Status badge helper
 function statusBadge(string $s): string {
