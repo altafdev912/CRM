@@ -1,8 +1,5 @@
 <?php
-/**
- * Shared lead form partial.
- * Expects: $lead (array|null), $action (string), $submitLabel (string)
- */
+
 $lead = $lead ?? [];
 ?>
 

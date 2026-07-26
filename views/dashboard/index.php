@@ -4,7 +4,7 @@ $breadcrumb = ['Dashboard' => null];
 require ROOT_PATH . '/views/layouts/header.php';
 
 
-
+// some data for the dashboard
 
 // Status badge helper
 function statusBadge(string $s): string {
@@ -19,6 +19,10 @@ function statusBadge(string $s): string {
     return "<span class=\"badge bg-$c\">$s</span>";
 }
 ?>
+<!-- checkinig -->
+
+<!-- another -->
+ <!-- another one -->
 
 <!-- Stat cards -->
 <div class="row g-4 mb-4">
